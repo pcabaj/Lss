@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Hello world!");
         final int POLOWA = 3;
 
-        int zmiennaI;
+        int zmiennaI = 0;
 
         zmiennaI = Integer.MAX_VALUE;
         long zmiennaL = 78787879L;
