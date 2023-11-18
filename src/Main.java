@@ -11,7 +11,7 @@ public class Main {
         zmiennaI = Integer.MAX_VALUE;
         long zmiennaL = 78787879L;
         float zmiennaF = 34.3434F;
-        char zmiennaC = 'x';
+        char zmiennaC = 'y';
 
         String zmiennaS = "Simple txt";
         char zmiennaC1 = zmiennaS.charAt(2);
