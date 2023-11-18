@@ -66,7 +66,7 @@ public class Main {
         }
 
 
-        int aa = 0;
+        // int aa = 0;
         if (a > 0) {
             System.out.println("Liczba dodatnia");
         } else if (a == 0) {
