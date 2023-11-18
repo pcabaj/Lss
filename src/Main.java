@@ -11,7 +11,7 @@ public class Main {
         zmiennaI = Integer.MAX_VALUE;
         long zmiennaL = 78787879L;
         float zmiennaF = 34.3434F;
-        char zmiennaC = 'y';
+        char zmiennaC = 'x';
 
         String zmiennaS = "Simple txt";
         char zmiennaC1 = zmiennaS.charAt(2);
@@ -57,5 +57,10 @@ public class Main {
         System.out.println("Dzielenie: " + (float)a / (float)b);
         System.out.println("Mnożenie: " + a * b);
         System.out.println("Modulo: " + b + " ->  " + a % b);
+
+        // IF
+
+        if(true) System.out.println("Uwaga");
+        if(true) { System.out.println("Uwaga"); }
     }
 }
